@@ -1,0 +1,16 @@
+E:\EducationSystem\EducationSystem\bin\Debug\EducationSystem.exe
+E:\EducationSystem\EducationSystem\bin\Debug\EducationSystem.pdb
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Properties.Resources.resources
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.csproj.GenerateResource.Cache
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.exe
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.pdb
+E:\EducationSystem\EducationSystem\bin\Debug\EducationSystem.exe.config
+E:\EducationSystem\EducationSystem\obj\x86\Debug\Interop.ieYunWebDetectLib.dll
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.csproj.ResolveComReference.cache
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Form4.resources
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Form2.resources
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Form5.resources
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Form8.resources
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Form7.resources
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Form9.resources
+E:\EducationSystem\EducationSystem\obj\x86\Debug\EducationSystem.Form1.resources
